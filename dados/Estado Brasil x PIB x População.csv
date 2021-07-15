@@ -1,28 +1,28 @@
-País,Região,Sigla,Estado,População,PIB (R$)
-Brasil,Norte,AC,Acre,732.793,8.477.000
-Brasil,Nordeste,AL,Alagoas,3.120.922,24.575.000
-Brasil,Norte,AP,Amapá,668.689,8.266.000
-Brasil,Norte,AM,Amazonas,3.480.937,59.779.000
-Brasil,Nordeste,BA,Bahia,14.021.432,154.340.000
-Brasil,Nordeste,CE,Ceara,8.448.055,77.865.000
-Brasil,Centro-Oeste,DF,Distrito Federal,2.562.963,149.906.000
-Brasil,Sudeste,ES,Espírito Santo,3.512.672,82.122.000
-Brasil,Centro-Oeste,GO,Goiás,6.004.045,97.576.000
-Brasil,Nordeste,MA,Maranhão,6.569.683,45.256.000
-Brasil,Centro-Oeste,MT,Mato Grosso,3.033.991,59.600.000
-Brasil,Centro-Oeste,MS,Mato Grosso do Sul,2.449.341,43.514.000
-Brasil,Sudeste,MG,Minas Gerais,19.595.309,351.381.000
-Brasil,Norte,PA,Pará,7.588.078,77.848.000
-Brasil,Nordeste,PB,Paraíba,3.766.834,31.947.000
-Brasil,Sul,PR,Paraná,10.439.601,217.290.000
-Brasil,Nordeste,PE,Pernambuco,8.796.032,95.187.000
-Brasil,Nordeste,PI,Piauí,3.119.015,22.060.000
-Brasil,Sudeste,RJ,Rio de Janeiro,15.993.583,407.123.000
-Brasil,Nordeste,RN,Rio Grande do Norte,3.168.133,32.339.000
-Brasil,Sul,RS,Rio Grande do Sul,10.695.532,252.483.000
-Brasil,Norte,RO,Rondônia,1.560.501,23.561.000
-Brasil,Norte,RR,Roraima,451.227,6.341.000
-Brasil,Sul,SC,Santa Catarina,6.249.682,152.482.000
-Brasil,Sudeste,SP,São Paulo,41.252.160,1.247.596.000
-Brasil,Nordeste,SE,Sergipe,2.068.031,23.932.000
-Brasil,Norte,TO,Tocantins,1.383.453,17.240.000
+ID,País,Região,Sigla,Estado,População,PIB (R$)
+1,Brasil,Norte,AC,Acre,732.793,8.477.000
+2,Brasil,Nordeste,AL,Alagoas,3.120.922,24.575.000
+3,Brasil,Norte,AP,Amapá,668.689,8.266.000
+4,Brasil,Norte,AM,Amazonas,3.480.937,59.779.000
+5,Brasil,Nordeste,BA,Bahia,14.021.432,154.340.000
+6,Brasil,Nordeste,CE,Ceara,8.448.055,77.865.000
+7,Brasil,Centro-Oeste,DF,Distrito Federal,2.562.963,149.906.000
+8,Brasil,Sudeste,ES,Espírito Santo,3.512.672,82.122.000
+9,Brasil,Centro-Oeste,GO,Goiás,6.004.045,97.576.000
+10,Brasil,Nordeste,MA,Maranhão,6.569.683,45.256.000
+11,Brasil,Centro-Oeste,MT,Mato Grosso,3.033.991,59.600.000
+12,Brasil,Centro-Oeste,MS,Mato Grosso do Sul,2.449.341,43.514.000
+13,Brasil,Sudeste,MG,Minas Gerais,19.595.309,351.381.000
+14,Brasil,Norte,PA,Pará,7.588.078,77.848.000
+15,Brasil,Nordeste,PB,Paraíba,3.766.834,31.947.000
+16,Brasil,Sul,PR,Paraná,10.439.601,217.290.000
+17,Brasil,Nordeste,PE,Pernambuco,8.796.032,95.187.000
+18,Brasil,Nordeste,PI,Piauí,3.119.015,22.060.000
+19,Brasil,Sudeste,RJ,Rio de Janeiro,15.993.583,407.123.000
+20,Brasil,Nordeste,RN,Rio Grande do Norte,3.168.133,32.339.000
+21,Brasil,Sul,RS,Rio Grande do Sul,10.695.532,252.483.000
+22,Brasil,Norte,RO,Rondônia,1.560.501,23.561.000
+23,Brasil,Norte,RR,Roraima,451.227,6.341.000
+24,Brasil,Sul,SC,Santa Catarina,6.249.682,152.482.000
+25,Brasil,Sudeste,SP,São Paulo,41.252.160,1.247.596.000
+26,Brasil,Nordeste,SE,Sergipe,2.068.031,23.932.000
+27,Brasil,Norte,TO,Tocantins,1.383.453,17.240.000
