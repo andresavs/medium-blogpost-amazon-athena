@@ -1,7 +1,7 @@
 # medium-blogpost-amazon-athena
 
 Links do Medium:
-Artigo Introdutório + Demo Athena: [Amazon Athena - Um poderoso Serviço Serverless para Análise de Dados](https://andresaviana.medium.com/aws-s3-muito-mais-que-um-simples-servi%C3%A7o-de-armazenamento-de-dados-acd149392b07)
+Artigo Introdutório + Demo Athena: [Amazon Athena - Um poderoso Serviço Serverless para Análise de Dados](https://andresaviana.medium.com/amazon-athena-um-poderoso-servi%C3%A7o-serverless-para-an%C3%A1lise-de-dados-1a997739a7e3)
 
 Artigo Comparando Athena com outros serviços AWS: [Comparativo com Athena e outros serviços AWS](https://andresaviana.medium.com/comparativo-com-athena-e-outros-servi%C3%A7os-aws-c1d8b964c38d)
 
